@@ -1,4 +1,4 @@
-# Task2: Biodiversity Intactness Index Phoenix, AZ
+# Biodiversity Intactness Index Phoenix, AZ
 #### Author: Sofia Rodas
 #### Date: December 6, 2025
 
