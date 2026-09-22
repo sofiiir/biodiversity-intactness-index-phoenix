@@ -6,6 +6,13 @@ __pycache__/
 # C extensions
 *.so
 
+# Redundant files
+task2-biodiversity-intactness,RODAS.html
+task2-biodiversity-intactness,RODAS.pdf
+biodiversity-intactness-phoenix,RODAS.html
+biodiversity-intactness-phoenix,RODAS.pdf
+biodiversity-intactness-phoenix.html
+
 # DS_store
 .DS_store
 
